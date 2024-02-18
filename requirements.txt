@@ -1,0 +1,7 @@
+flask
+firebase_admin
+firebase_admin 
+gunicorn
+pandas
+bs4
+requests
