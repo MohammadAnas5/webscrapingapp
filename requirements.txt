@@ -5,3 +5,4 @@ gunicorn
 pandas
 bs4
 requests
+lxml
